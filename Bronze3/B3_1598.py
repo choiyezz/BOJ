@@ -5,7 +5,6 @@ a = num1 // 4
 b = num1 % 4
 c = num2 // 4
 d = num2 % 4
-print(c,d)
 print(abs(a-c)+abs(b-d))
 
 
